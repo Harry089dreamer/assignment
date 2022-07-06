@@ -32,9 +32,16 @@
 } 
 .banner-text{ 
     text-align: center; 
-    color: aliceblue;
+    color: aliceblue; 
+    margin-top: 10px; 
+    font-size: 50px;
 
-} 
+}  
+.ban{ 
+    font-size: 15px; 
+    color: #D9D9D9; 
+    margin-top: 30px;
+}
 .btn{ 
     padding: 8px 8px; 
     background-color: rgb(138, 20, 138);
@@ -43,21 +50,24 @@
     color: white;
     border-radius: 10px; 
     margin: 0 auto;
-    text-align: center;
+    text-align: center; 
+    margin-top: 30px;
     } 
     .donate{ 
-        text-align: center;
+        text-align: center; 
+        margin-top: 30px;
     } 
     .do{ 
-        text-align: center;
+        text-align: center; 
+        margin-top: 30px;
     } 
      .container1{ 
         width: 100px; 
-        height: 50px; 
+        height: 70px; 
         border: 1px solid white;
         padding: 2px; 
         margin-left: 10px;
-        margin-top: 20px;  
+        margin-top: 30px;  
         text-align: center; 
         border-radius: 5px; 
         background-color: rgb(219, 197, 197);
@@ -73,12 +83,12 @@
         justify-content: space-evenly;
      } .container2{ 
         width: 100px; 
-        height: 50px;  
+        height: 70px;  
         background-color: lightsalmon;
         border: 1px solid white;
         padding: 2px;  
         color: rgb(197, 58, 58);
-         margin-top: 20px; 
+         margin-top: 30px; 
          margin-right: 5px;
     margin-left: 10px;
     text-align: center; 
@@ -90,10 +100,10 @@
  }  
              .container3{ 
                 width: 100px; 
-                height: 50px; 
+                height: 70px; 
                 border: 1px solid white;
                 padding: 2px; 
-                margin-top: 20px;  
+                margin-top: 30px;  
                 margin-left: 10px;  
                 margin-right: 5px;
                 text-align: center; 
@@ -105,10 +115,10 @@
                      }  
                      .container4{ 
                         width: 100px; 
-                        height: 50px; 
+                        height: 70px; 
                         border: 1px solid white;
                         padding: 2px; 
-                    margin-top: 20px; 
+                    margin-top: 30px; 
                          margin-left: 10px; 
                         text-align: center; 
                         border-radius: 5px; 
@@ -120,10 +130,10 @@
                              }  
                              .container5{ 
                                 width: 100px; 
-                                height: 50px; 
+                                height: 70px; 
                                 border: 1px solid white; 
                                 padding: 2px; 
-                                 margin-top: 20px; 
+                                 margin-top: 30px; 
                                    margin-left: 10px; 
                                 text-align: center; 
                                 border-radius: 5px; 
@@ -147,7 +157,7 @@
                                         color: antiquewhite; 
                                         border: none; 
                                         padding: 10px; 
-                                        margin-top: 10px; 
+                                        margin-top: 20px; 
                                         border-radius: 5px;
                                      } 
                                      .plan{ 
@@ -157,7 +167,8 @@
                                      } 
                                      .lorem{ 
                                         text-align: center; 
-                                        font-size: 10px;
+                                        font-size: 13px; 
+                                        margin-top: 12px;
                                      } 
                                     .cont-items  .cont1 img,  .cont-items  .cont2 img,  .cont-items  .cont3 img, .cont-items  .cont4 img,  .cont-items  .cont5 img{
                                         padding-top: 30px;
@@ -171,7 +182,7 @@
                                         background-color: skyblue; 
                                         border-radius: 5px; box-shadow: 10px 10px 13px ;  
                                         transition: .11ms;
-                                        margin-top: 20px;
+                                        margin-top: 40px;
 
                                      }  
                                      /*.cont-1:hover{ 
@@ -188,7 +199,7 @@
                                         border-radius: 5px; box-shadow: 10px 10px 13px ;  
                                         margin-left: 20px;  
                                         transition: .11ms;
-                                        margin-top: 20px;
+                                        margin-top: 40px;
                                      }  
                                      /*.cont-2:hover{ 
                                         border: 1px solid rebeccapurple;  
@@ -204,7 +215,7 @@
                                         border-radius: 5px; 
                                          box-shadow: 10px 10px 13px ;  
                                          transition: .11ms;
-                                         margin-top: 20px;
+                                         margin-top: 40px;
                                      }  
                                      /*.cont-3:hover{ 
                                         border: 1px solid rebeccapurple;  
@@ -236,7 +247,8 @@
                                 background-color: blueviolet; 
                                 border-radius: 5px; 
                                 width: 150px; 
-                                height: 40px;
+                                height: 40px; 
+                                margin-top: 20px;
                                    } 
                                  
                                    .img-cont img{ 
@@ -301,7 +313,8 @@
                                     background-color: #FFF4D6;
                                     padding: 80px 20px;
                                     border-radius: 5px;
-                                    margin-bottom: 100px;
+                                    margin-bottom: 100px; 
+                                    margin-top: 40px;
                                 }
                                 
                                 #email{
@@ -324,5 +337,24 @@
                                     border-top-right-radius: 5px;
                                     border-bottom-right-radius: 5px;
                                     border: none;
-                                    margin-left: -5px;
+                                    margin-left: -5px; 
+                                   
+                                }
+                                .humble{ 
+                                    text-align: center; 
+                                    margin: 0 auto; 
+                                    background-color: black; 
+                                    color: #D9D9D9;
+                                    font-family: 'Dancing Script', cursive; 
+                                    height: 150px; 
+                                    padding-top: 30px;
+                                } 
+                                .old{ 
+                                    padding:15px;
+                                } 
+                                .up{ 
+                                    margin-top: 30px;
+                                } 
+                                .iam{ 
+                                    padding:30px
                                 }
