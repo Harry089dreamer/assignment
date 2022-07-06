@@ -123,38 +123,115 @@ margin-right: 5px;
                                         font-size: 10px;
                                      } 
                                      .cont1{ 
-                                        width: 200px; 
+                                        width: 300px; 
                                         height: 300px; 
-                                        padding: 2px;
+                                        padding: 2px; 
+                                        padding-left: 15px;
                                         border: 1px ; 
                                         background-color: skyblue; 
-                                        border-radius: 5px; box-shadow: 10px 10px 13px ; 
+                                        border-radius: 5px; box-shadow: 10px 10px 13px ;  
+                                        transition: .11ms;
+                                        margin-top: 20px;
 
-                                     } 
+                                     }  
+                                     /*.cont-1:hover{ 
+                                        border: 1px solid rebeccapurple;  
+                                        margin-top: 0px; 
+                                     }*/
                                      .cont2{ 
-                                        width: 200px; 
+                                        width: 300px; 
                                         height: 300px; 
                                         padding: 2px;
-                                        border: 1px ; 
+                                        border: 1px ;  
+                                        padding-left: 15px;
                                     background-color: cornflowerblue;
                                         border-radius: 5px; box-shadow: 10px 10px 13px ;  
-                                        margin-left: 20px; 
-                                        
-                                     } 
+                                        margin-left: 20px;  
+                                        transition: .11ms;
+                                        margin-top: 20px;
+                                     }  
+                                     /*.cont-2:hover{ 
+                                        border: 1px solid rebeccapurple;  
+                                        margin-top: 0px; 
+                                     }*/
                                      .cont3{ 
-                                        width: 200px; 
+                                        width: 300px; 
                                         height: 300px; 
                                         padding: 2px;
                                         border: 1px ; 
-                                       background-color: pink;
+                                       background-color: pink; 
+                                       padding-left: 15px;
                                         border-radius: 5px; 
-                                         box-shadow: 10px 10px 13px ; 
-                                     } 
+                                         box-shadow: 10px 10px 13px ;  
+                                         transition: .11ms;
+                                         margin-top: 20px;
+                                     }  
+                                     /*.cont-3:hover{ 
+                                        border: 1px solid rebeccapurple;  
+                                        margin-top: 0px; 
+                                     }*/
                                      .cont-items{ 
                                         display: flex; 
                                         justify-content: space-evenly;
                                      } 
                                      
-                                     .blood{ 
-                                        size: 10px;
-                                     }
+                                     .blood img{ 
+                                        
+                                        padding-bottom: 35px;
+                                     } 
+                                     .medi img{ 
+                                        padding-bottom: 35px;
+                                     } 
+                                     .new-one{ 
+                                        display: flex; 
+                                        margin-top: 80px;
+                                     } 
+                                     .flood{ 
+                                        width: 500px;
+                                        height: 300px;
+                                     } 
+                                   .contact{ 
+                                border: 1px ; 
+                                color: antiquewhite; 
+                                background-color: blueviolet; 
+                                border-radius: 5px; 
+                                width: 150px; 
+                                height: 40px;
+                                   } 
+                                 
+                                   .img-cont img{ 
+                                    width: 350px; 
+                                    height: 400px; 
+                                    transform: skewY(-15deg); 
+                                    
+                                    margin-top: 70px;   
+                                    box-shadow: 10px 10px 16px;
+                                    
+                                  
+                                   }
+                                  .img-cont{ 
+                                    display: flex;
+                                  } 
+                                  .help-others{ 
+                                    display: flex; 
+                                    margin-top: 40px; 
+                                
+                                  } 
+                                  .help-right{ 
+                                    padding-left: 50px;
+                                  } 
+                                  .msg{ 
+                                    background-color: gray;
+                                    color: antiquewhite; 
+                                    padding: 10px; 
+                                    border-radius: 5px;
+                                    border-color: none; 
+                                    height: 40px;
+                                  } 
+                                  .get{ 
+                                    text-align: center; 
+                                    margin-top: 50px;
+                                  } 
+                                  .box1{ 
+                                    
+                                  }
