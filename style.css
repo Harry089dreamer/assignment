@@ -1,0 +1,100 @@
+ 
+ body{ 
+    font-family: 'Poppins', sans-serif;
+ }
+.banner-description{ 
+    background-image: url(image/donation13.jpg); 
+    height: 300px;  
+    padding-top: 50px;  
+    text-align: center; 
+    margin: auto;
+    
+} 
+.banner-text{ 
+    text-align: center; 
+    color: aliceblue;
+
+} 
+.btn{ 
+    padding: 8px 8px; 
+    background-color: rgb(138, 20, 138);
+    margin: 10px; 
+    font-size: 18px; 
+    color: white;
+    border-radius: 10px; 
+    margin: 0 auto;
+    text-align: center;
+    } 
+    .donate{ 
+        text-align: center;
+    } 
+    .do{ 
+        text-align: center;
+    } 
+     .container1{ 
+width: 100px; 
+height: 50px; 
+border: 1px solid white;
+padding: 2px; 
+margin-left: 10px;
+margin-top: 20px;  
+text-align: center; 
+border-radius: 5px; 
+background-color: rgb(219, 197, 197);
+margin-right: 5px;
+     } 
+     .today{ 
+        display: flex; 
+        text-align: center; 
+        margin-bottom: 40px; 
+        justify-content: space-evenly;
+     } .container2{ 
+        width: 100px; 
+        height: 50px;  
+        background-color: lightsalmon;
+        border: 1px solid white;
+        padding: 2px;  
+        color: rgb(197, 58, 58);
+         margin-top: 20px; 
+         margin-right: 5px;
+    margin-left: 10px;
+    text-align: center; 
+    border-color: rgb(230, 65, 14); 
+    border-radius: 5px;   }  
+             .container3{ 
+                width: 100px; 
+                height: 50px; 
+                border: 1px solid white;
+                padding: 2px; 
+                margin-top: 20px;  
+                margin-left: 10px;  
+                margin-right: 5px;
+                text-align: center; 
+                border-radius: 5px; 
+                background-color: rgb(219, 197, 197);
+                     }  
+                     .container4{ 
+                        width: 100px; 
+                        height: 50px; 
+                        border: 1px solid white;
+                        padding: 2px; 
+                    margin-top: 20px; 
+                         margin-left: 10px; 
+                        text-align: center; 
+                        border-radius: 5px; 
+                        background-color: rgb(219, 197, 197); 
+                        margin-right: 5px;
+                             }  
+                             .container5{ 
+                                width: 100px; 
+                                height: 50px; 
+                                border: 1px solid white; 
+                                padding: 2px; 
+                                 margin-top: 20px; 
+                                   margin-left: 10px; 
+                                text-align: center; 
+                                border-radius: 5px; 
+                                background-color: rgb(219, 197, 197); 
+                                margin-right: 5px;
+                                
+                                     } 
