@@ -97,4 +97,64 @@ margin-right: 5px;
                                 background-color: rgb(219, 197, 197); 
                                 margin-right: 5px;
                                 
+                                     }  
+                                     .tag{ 
+                                        width: 60%;
                                      } 
+                                     .taka{ 
+                                        text-align: center; 
+                                        font-size: 10px;
+                                     } 
+                                     .Now{ 
+                                        background-color: blueviolet; 
+                                        color: antiquewhite; 
+                                        border: none; 
+                                        padding: 10px; 
+                                        margin-top: 10px; 
+                                        border-radius: 5px;
+                                     } 
+                                     .plan{ 
+                                 text-align: center;  
+                                 font-size: 25px ; 
+                                 margin-top: 30px;
+                                     } 
+                                     .lorem{ 
+                                        text-align: center; 
+                                        font-size: 10px;
+                                     } 
+                                     .cont1{ 
+                                        width: 200px; 
+                                        height: 300px; 
+                                        padding: 2px;
+                                        border: 1px ; 
+                                        background-color: skyblue; 
+                                        border-radius: 5px; box-shadow: 10px 10px 13px ; 
+
+                                     } 
+                                     .cont2{ 
+                                        width: 200px; 
+                                        height: 300px; 
+                                        padding: 2px;
+                                        border: 1px ; 
+                                    background-color: cornflowerblue;
+                                        border-radius: 5px; box-shadow: 10px 10px 13px ;  
+                                        margin-left: 20px; 
+                                        
+                                     } 
+                                     .cont3{ 
+                                        width: 200px; 
+                                        height: 300px; 
+                                        padding: 2px;
+                                        border: 1px ; 
+                                       background-color: pink;
+                                        border-radius: 5px; 
+                                         box-shadow: 10px 10px 13px ; 
+                                     } 
+                                     .cont-items{ 
+                                        display: flex; 
+                                        justify-content: space-evenly;
+                                     } 
+                                     
+                                     .blood{ 
+                                        size: 10px;
+                                     }
